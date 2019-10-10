@@ -10,4 +10,4 @@ The original project can be viewed at:
 | Web :computer: | [https://shhdharmen.github.io/WhiteBoard/](https://shhdharmen.github.io/WhiteBoard/) |
 | Expo :iphone:  | [https://expo.io/@shhdharmen/WhiteBoard](https://expo.io/@shhdharmen/WhiteBoard)     |
 
-I am planning to build something with these [requirements](requirements.md).
+I am planning to build something with these [requirements](REQUIREMENTS.md).
