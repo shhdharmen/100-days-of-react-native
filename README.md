@@ -1,4 +1,4 @@
-# 100-days-of-react-native
+# 100-days-of-react-native with WhiteBoard
 
 This project serves as logs entries for the original react native project called [WhiteBoard](https://github.com/shhdharmen/WhiteBoard). I started this project on *10th October, 2019*.
 
