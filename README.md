@@ -11,3 +11,38 @@ The original project can be viewed at:
 | Expo :iphone:  | [https://expo.io/@shhdharmen/WhiteBoard](https://expo.io/@shhdharmen/WhiteBoard)     |
 
 I am planning to build something with these [requirements](REQUIREMENTS.md).
+
+## Logs
+
+<!-- ### Day 0: February 30, 2016 (Example 1)
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com) -->
+
+### Day 0: October 10-11, 2019
+
+#### :white_check_mark: Initial setup done
+
+**Today's Progress**:
+
+- Read getting started docs for [React Native](https://facebook.github.io/react-native/docs/getting-started) and [Expo](https://docs.expo.io/versions/latest/).
+- Created main project using [Expo's Managed Workflow](https://docs.expo.io/versions/v35.0.0/workflow/exploring-managed-workflow/) with Typescript.
+- Created both repos, logs and main project.
+- Setup github actions to deploy and publish in main project.
+
+**Thoughts:**:
+
+- It took some more time to complete initial setup, but that's okay. I am happy with it :smile:.
+
+**Links to work:**
+
+| Link                                     | URL                                                                                                              |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Logs Project Github Pages :octclipboard: | [https://shhdharmen.github.io/100-days-of-react-native/](https://shhdharmen.github.io/100-days-of-react-native/) |
+| Main Project Git :octocat:               | [https://github.com/shhdharmen/WhiteBoard](https://github.com/shhdharmen/WhiteBoard)                             |
+| Web :computer:                           | [https://shhdharmen.github.io/WhiteBoard/](https://shhdharmen.github.io/WhiteBoard/)                             |
+| Expo :iphone:                            | [https://expo.io/@shhdharmen/WhiteBoard](https://expo.io/@shhdharmen/WhiteBoard)                                 |
