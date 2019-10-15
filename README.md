@@ -16,7 +16,9 @@ I am planning to build something with these [requirements](REQUIREMENTS.md).
 
 ## Logs
 
-<!-- ### Day 0: February 30, 2016 (Example 1)
+<!--
+
+### Day 0: February 30, 2016 (Example 1)
 
 #### (delete me or comment me out)
 
@@ -30,7 +32,11 @@ I really struggled with CSS, but, overall, I feel like I am slowly getting bette
 
 **Link to work:**
 
-[Calculator App](http://www.example.com) -->
+[Calculator App](http://www.example.com)
+
+---
+
+-->
 
 ### Day 0: October 10-11, 2019
 
@@ -56,6 +62,8 @@ I really struggled with CSS, but, overall, I feel like I am slowly getting bette
 | Web :computer:                           | [https://shhdharmen.github.io/WhiteBoard/](https://shhdharmen.github.io/WhiteBoard/)                             |
 | Expo :iphone:                            | [https://expo.io/@shhdharmen/WhiteBoard](https://expo.io/@shhdharmen/WhiteBoard)                                 |
 
+---
+
 ### Day 1: October 12, 2019
 
 #### Server and API setup
@@ -73,3 +81,23 @@ I really struggled with CSS, but, overall, I feel like I am slowly getting bette
 **Link to work:**
 
 [White Board Strapi Repo](https://github.com/shhdharmen/white-board-strapi)
+
+---
+
+### Day 2/3: October 14/15, 2019
+
+#### Further authentication setup on server
+
+**Today's Progress:**
+
+- I've setup [policies](https://strapi.io/documentation/3.0.0-beta.x/concepts/policies.html#concept) so that logged-in user can see only owned notes, categories, tags.
+
+**Thoughts:**
+
+- I really struggled with policies, made lot of search. At the end [this github issue](https://github.com/strapi/strapi/issues/624) helped me.
+
+**Link to work:**
+
+- [Backend commit for user authentication](https://github.com/shhdharmen/white-board-strapi/commit/63868495d0917dff9117e9d6e03ac7bc1e62a48b)
+
+---
