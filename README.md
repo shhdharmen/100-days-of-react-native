@@ -91,13 +91,22 @@ I really struggled with CSS, but, overall, I feel like I am slowly getting bette
 **Today's Progress:**
 
 - I've setup [policies](https://strapi.io/documentation/3.0.0-beta.x/concepts/policies.html#concept) so that logged-in user can see only owned notes, categories, tags.
+- Added [native base](https://nativebase.io/) for UI kit, [lottie](https://airbnb.io/lottie/#/) for loader animation and [react navigation](https://reactnavigation.org/en/) for routing.
+- Changed `primary` theme color of native base, guide [here](https://docs.nativebase.io/Customize.html#theaming-nb-headref).
+- Created a `Main` component, which will hold all the navigations like below:
+  - `HomeScreen` - Currently it's showing only loader. I will logically hide it and show dashboard page if logged in and login page if not.
+  - `DashboardScreen` - Just a skeleton
+  - `LoginScreen` - Just a skeleton
+  - `RegisterScreen` - Just a skeleton
+  - `ForgotPasswordScreen` - Just a skeleton
 
 **Thoughts:**
 
-- I really struggled with policies, made lot of search. At the end [this github issue](https://github.com/strapi/strapi/issues/624) helped me.
+- I will continue on how to store `jwt` token in react native and will implement login, register and forgot password next.
 
 **Link to work:**
 
 - [Backend commit for user authentication](https://github.com/shhdharmen/white-board-strapi/commit/63868495d0917dff9117e9d6e03ac7bc1e62a48b)
+- [Frontend commit: added native base, lottie, react navigation](https://github.com/shhdharmen/WhiteBoard/commit/0c9a5aa589f1c1e163d1cf5af414b2f16fd4159a)
 
 ---
