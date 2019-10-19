@@ -7,7 +7,6 @@ The project can be viewed at:
 | View                   | URL                                                                                                  |
 | ---------------------- | ---------------------------------------------------------------------------------------------------- |
 | Frontend Git :octocat: | [https://github.com/shhdharmen/WhiteBoard](https://github.com/shhdharmen/WhiteBoard)                 |
-| Web view :computer:    | [https://shhdharmen.github.io/WhiteBoard/](https://shhdharmen.github.io/WhiteBoard/)                 |
 | Expo view :iphone:     | [https://expo.io/@shhdharmen/WhiteBoard](https://expo.io/@shhdharmen/WhiteBoard)                     |
 | ---------------------- | ------------------------------------------------------------------------------------                 |
 | Backend Git :octocat:  | [https://github.com/shhdharmen/white-board-strapi](https://github.com/shhdharmen/white-board-strapi) |
@@ -108,5 +107,24 @@ I really struggled with CSS, but, overall, I feel like I am slowly getting bette
 
 - [Backend commit for user authentication](https://github.com/shhdharmen/white-board-strapi/commit/63868495d0917dff9117e9d6e03ac7bc1e62a48b)
 - [Frontend commit: added native base, lottie, react navigation](https://github.com/shhdharmen/WhiteBoard/commit/0c9a5aa589f1c1e163d1cf5af414b2f16fd4159a)
+
+---
+
+### Day 4-5: October 18-19, 2019
+
+#### Login, Auth flow and jwt token management
+
+**Today's Progress:**
+
+- Upgraded `expo-cli` version
+- Read [Authentication flows](https://reactnavigation.org/docs/en/auth-flow.html) for React Navigation.
+- Created [animated routes](https://reactnavigation.org/docs/en/animated-switch-navigator.html).
+- Read about [environments](https://github.com/luggit/react-native-config/issues/249#issuecomment-386090809) and implemented.
+- Used [axios](https://github.com/axios/axios) for HTTP client.
+- Implemented show/hide for password field.
+
+**Link to work:**
+
+- [Commit link](https://github.com/shhdharmen/WhiteBoard/commit/af7217c7e67f1bb412b7ebf0382f8ea2a9de5390)
 
 ---
