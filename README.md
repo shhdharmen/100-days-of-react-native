@@ -128,3 +128,21 @@ I really struggled with CSS, but, overall, I feel like I am slowly getting bette
 - [Commit link](https://github.com/shhdharmen/WhiteBoard/commit/af7217c7e67f1bb412b7ebf0382f8ea2a9de5390)
 
 ---
+
+### Day 6: October 31, 2019
+
+#### Fetch notes
+
+**Today's Progress:**
+
+- Fixed login UI.
+- Fetched notes after login.
+- Used `Card` of NativeBase to preview notes.
+- Added header in login and home screen.
+- Added fonts: `Poppins` and `AnonymousPro`, thanks to [https://fontpair.co/](https://fontpair.co/).
+
+**Link to work:**
+
+[fonts, fetch notes, login ui corrections](https://github.com/shhdharmen/WhiteBoard/commit/e86de5b25995953f161f670585eca0758866f251)
+
+---
