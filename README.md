@@ -146,3 +146,21 @@ I really struggled with CSS, but, overall, I feel like I am slowly getting bette
 [fonts, fetch notes, login ui corrections](https://github.com/shhdharmen/WhiteBoard/commit/e86de5b25995953f161f670585eca0758866f251)
 
 ---
+
+### Day 7: November 1, 2019
+
+#### Change in content types, add note ui, settings ui, no notes ui
+
+**Today's Progress:**
+
+- Created couple of UIs - No notes UI, Add Note UI, Settings UI.
+- Added animations using [react-native-animatable](https://www.npmjs.com/package/react-native-animatable).
+- Changed content types on backend and removed relationships.
+- Added [list-is-empty](https://icons8.com/ouch/illustration/mirage-list-is-empty) image when no notes are there.
+- Created some shared components: `HeaderText` (and input), `TextLoader` to handle custom stylings.
+
+**Thoughts:**
+
+I really struggled with animations, but [react-native-animatable](https://www.npmjs.com/package/react-native-animatable) made it easier at last.
+
+---
