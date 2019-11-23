@@ -164,3 +164,16 @@ I really struggled with CSS, but, overall, I feel like I am slowly getting bette
 I really struggled with animations, but [react-native-animatable](https://www.npmjs.com/package/react-native-animatable) made it easier at last.
 
 ---
+
+### Day 8: November 23, 2019
+
+#### Colors, Archive, Edit and Delete Note
+
+**Today's Progress:**
+
+- Used `react-native-color-palette` for color selections
+- Added update api calls
+- Showing delete confirm dialog before actually deleting
+- Archive note and undo it (by toast button)
+
+---
