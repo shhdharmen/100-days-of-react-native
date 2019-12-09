@@ -177,3 +177,15 @@ I really struggled with animations, but [react-native-animatable](https://www.np
 - Archive note and undo it (by toast button)
 
 ---
+
+### Day 9: December 10th, 2019
+
+**Today's Progress:**
+
+Fixed iOS specific issue. TouchableNativeFeedback is only working in android. So, made a shared component which will return TouchableNativeFeedback for android and TouchableHighlight for iOS.
+
+**Link to work:**
+
+[Commit](https://github.com/shhdharmen/WhiteBoard/commit/a3dda4eb463d7743018af51223073f33bead63a4)
+
+---
